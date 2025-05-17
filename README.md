@@ -12,6 +12,9 @@ I implemented the encoding and decoding methods in python, allowing the easy ret
 
 ## Usage
 $ python3 decoder.py encode "VeryS3cureP4ssword"
+
 -> w-G+{K,)~q/p"2p5:6
+
 $ python3 decoder.py decode 'w-G+{K,)~q/p"2p5:6'
+
 -> VeryS3cureP4ssword#
